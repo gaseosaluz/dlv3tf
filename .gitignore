@@ -113,4 +113,6 @@ pexels_royalty_free_photos*
 # Project Files
 .DS_Store
 data/
-models/
+models/ 
+*.tar
+*.gz
